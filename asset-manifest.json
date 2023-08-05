@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/React-CloTube/static/css/main.7064deb2.css",
+    "main.js": "/React-CloTube/static/js/main.edb1f343.js",
+    "index.html": "/React-CloTube/index.html",
+    "main.7064deb2.css.map": "/React-CloTube/static/css/main.7064deb2.css.map",
+    "main.edb1f343.js.map": "/React-CloTube/static/js/main.edb1f343.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7064deb2.css",
+    "static/js/main.edb1f343.js"
+  ]
+}
